@@ -16,8 +16,7 @@ Expanding the Definition of "Prevent Infection"
 Bacteria do not care if a wound was caused by a fire or a rusty nail. An open wound is an open wound.
 
 The FDA applies strict regulatory boundaries to the term "prevent infection" based on *where* the chemical reaction takes place. The medical and regulatory definition of preventing a wound infection is expanded into two distinct concepts:
-
-I apologize for shifting the context to systemic issues and blood tracking. Keeping the focus strictly on local application within the nasal passages to clear debris and prevent infection on internal nasal burns, the four cellular mechanisms operate directly on the tissue surface.
+Keeping the focus strictly on local application within the nasal passages to clear debris and prevent infection on internal nasal burns, the four cellular mechanisms operate directly on the tissue surface.
 When a silver solution is introduced locally as a nasal wash, it targets micro-organisms right at the wound bed through the following contact-dependent actions:
 ## Local Action of the 4 Mechanisms in the Nasal Passage
 
