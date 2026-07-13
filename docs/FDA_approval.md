@@ -17,6 +17,15 @@ Bacteria do not care if a wound was caused by a fire or a rusty nail. An open wo
 
 The FDA applies strict regulatory boundaries to the term "prevent infection" based on *where* the chemical reaction takes place. The medical and regulatory definition of preventing a wound infection is expanded into two distinct concepts:
 
+1\. Inside the Dressing vs. Inside the Body
+
+When the FDA clears a silver-impregnated medical product, the accepted indication is that **silver acts as a local antimicrobial barrier *within the dressing itself* to reduce bioburden and prevent external bacteria from colonizing the wound bed**. It acts as a local filter.
+
+2\. Local Colonization vs. Sepsis
+
+-   **Local Prevention:** When an open wound loses its protective skin barrier, bacteria immediately attempt to multiply and form a slimy defense layer called a biofilm. Silver is FDA-accepted to prevent this initial local colonization on the exposed tissue. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6037606/), [2](https://www.woundsource.com/blog/breaking-down-silver-how-bacteria-are-affected), [3](https://www.youtube.com/watch?v=eoK3XcwChW4)]
+-   **Systemic Infection:** If bacteria manage to bypass a wound's local defenses, they enter the deep tissue, blood vessels, and lymphatic system. Once bacteria are inside the bloodstream, topical silver can no longer reach them. At that point, systemic, internal antibiotics are legally required to clear the infection.
+
 Keeping the focus strictly on local application within the nasal passages to clear debris and prevent infection on internal nasal burns, the four cellular mechanisms operate directly on the tissue surface.
 When a silver solution is introduced locally as a nasal wash, it targets micro-organisms right at the wound bed through the following contact-dependent actions:
 ## Local Action of the 4 Mechanisms in the Nasal Passage
